@@ -1,0 +1,14 @@
+
+.container{
+    max-width: 1252px;
+    margin: 0 auto;
+}
+.flex{
+    display: flex;
+}
+.items-center{
+    align-items: center;
+}
+.justify-between{
+    justify-content: space-between;
+}
